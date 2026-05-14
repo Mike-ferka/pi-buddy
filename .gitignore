@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.wav
+*.txt
+piper-voices/
+whisper.cpp/
+piper_linux_aarch64.tar.gz*
